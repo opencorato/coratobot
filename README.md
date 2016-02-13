@@ -10,7 +10,9 @@ La mission è costituita dalla difusione e coinvolgimento della società.
 #Installazione
 
 1) mkvirtualenv telegram
+
 2) workon telegram
+
 3) pip install python-telegram-bot
 
 passare:
